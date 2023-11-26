@@ -2,3 +2,4 @@ Heloo
 this line is added from remote repo 
 this is pull demo 
 
+funtion 2 bug 2s
